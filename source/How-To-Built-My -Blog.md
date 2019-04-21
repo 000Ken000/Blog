@@ -6,3 +6,4 @@
 2. 在刚关联的GitHub Repo指定路径（ken-s-blog/source)下创建以``.md``为后缀的文档,保存提交。
 3. 在GitPress-Setting-Repo Setting点击【Rebuild】，刷新页面，Done.
 
+更多信息请仔细阅读[官方说明文档](https://gitpress.io/c/helps/welcome)
