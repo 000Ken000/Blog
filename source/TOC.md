@@ -1,3 +1,3 @@
 # 目录
 
-- [如何搭建GitPress博客]（How-To-Built-My-Blog）
+- [如何搭建GitPress博客](How-To-Built-My-Blog)
