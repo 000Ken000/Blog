@@ -19,5 +19,9 @@
 - 如何通过github桌面版clone share仓库下的wiki？
 ![](./_image/2019-04-23-08-33-39.png)
 ![](./_image/2019-04-23-08-34-35.png)
+
+
+- github文档中的图片在gitpress中拉取不出来？
+
 **更多**
 请仔细阅读[官方说明文档](https://gitpress.io/c/helps/welcome)
