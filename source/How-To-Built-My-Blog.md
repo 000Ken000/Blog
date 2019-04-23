@@ -22,6 +22,6 @@
 
 
 - github文档中的图片在gitpress中拉取不出来？
-
+  - [How to upload images and pictures?]https://gitpress.io/c/helps/faq
 **更多**
 请仔细阅读[官方说明文档](https://gitpress.io/c/helps/welcome)
